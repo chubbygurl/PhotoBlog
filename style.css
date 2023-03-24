@@ -1,0 +1,12 @@
+.cimg {
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  align-items: center;
+  }
+  
+  img {
+    width: 30vw; 
+    height: auto;
+    margin: 1vh; 
+  }
